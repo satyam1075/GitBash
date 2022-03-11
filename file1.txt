@@ -1,13 +1,16 @@
+===================== Inside Branch=======================
+
 Hi
 
 
 Hello
 
-<<<<<<< HEAD
 New Branch
-=======
+
 
 Added some new line in master 
 
 which are not present in newBranch1
->>>>>>> master
+
+
+===================== Inside Branch=======================

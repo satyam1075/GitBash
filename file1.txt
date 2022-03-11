@@ -2,3 +2,8 @@ Hi
 
 
 Hello
+
+
+Added some new line in master 
+
+which are not present in newBranch1

@@ -5,5 +5,5 @@ Hello
 
 
 Added some new line in master 
-
-which are not present in newBranch1
+Edite the codes the online repo
+Will pull it in local.
